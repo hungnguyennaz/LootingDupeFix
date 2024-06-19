@@ -1,0 +1,6 @@
+name: LootingDupeFix
+version: '${project.version}'
+main: me.hungaz.lootingdupefix.LootingDupeFix
+api-version: '1.13'
+author: hungaz
+description: A shitty plugin that blocks a dupe using Zombified Villager
